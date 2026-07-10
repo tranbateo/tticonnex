@@ -114,5 +114,7 @@ com.example.hotel_system
 * **Dev:** Trần Bá Tài
 * **Contact:** 22010012@st.phenikaa-uni.edu.vn
 
-*Project được xây dựng với mục đích học tập và nghiên cứu kiến trúc Microservices & REST API.*# tticonnex
+*Project được xây dựng với mục đích học tập và nghiên cứu kiến trúc Microservices & REST API.*
 
+# tticonnex
+ 
